@@ -34,3 +34,7 @@ In this folder, you'll find the implementation of well-known deep learning archi
 - [ ] [Udacity] [Deep Learning by Google](https://www.udacity.com/course/intro-to-tensorflow-for-deep-learning--ud187)
 - [ ] [Udacity] [Intro to Machine Learning](https://www.udacity.com/course/intro-to-machine-learning--ud120)
 - [ ] [Udemy] [Deep Learning A-Z](https://www.udemy.com/course/deeplearning/)
+
+## Data Science
+
+- [ ] [Path] [Data Science Siraj](https://github.com/llSourcell/Learn_Data_Science_in_3_Months)
