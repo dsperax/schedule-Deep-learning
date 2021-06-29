@@ -24,7 +24,7 @@ In this folder, you'll find the implementation of well-known deep learning archi
 - [ ] [Coursera] [Deep Learning Specialization by Andrew Ng](https://www.coursera.org/specializations/deep-learning)
   - [ ] [Coursera] [Neural Networks Deep Learning](https://www.coursera.org/learn/neural-networks-deep-learning?specialization=deep-learning)
   - [ ] [Coursera] [Deep Neural Network](https://www.coursera.org/learn/deep-neural-network?specialization=deep-learning)
-  - [x] [Coursera] [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning) [Files](https://github.com/dsperax/schedule-Deep-learning/tree/main/courses/Structure%20ML%20Projects)
+  - [x] [Coursera] [Structuring Machine Learning Projects](https://www.coursera.org/learn/machine-learning-projects?specialization=deep-learning) -> [Files](https://github.com/dsperax/schedule-Deep-learning/tree/main/courses/Structure%20ML%20Projects)
   - [ ] [Coursera] [Convolutional Neural Network](https://www.coursera.org/learn/convolutional-neural-networks?specialization=deep-learning)
   - [ ] [Coursera] [Sequence models](https://www.coursera.org/learn/nlp-sequence-models?specialization=deep-learning)
 - [ ] [Coursera] [Deploying Machine Learning Models](https://www.coursera.org/learn/deploying-machine-learning-models?authMode=login)
